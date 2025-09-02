@@ -18,4 +18,4 @@
 ### 🌱 What I’m up to
 - Building an **open-source courses platform** 🌍  
 - Working on a **Discord-style chat app 
-- Sharpening my **JavaScript skills** and learning advanced concepts  
+
