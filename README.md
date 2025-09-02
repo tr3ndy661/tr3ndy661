@@ -10,7 +10,8 @@
 ### 🔧 Tech Interests
 - Web Development (React, Node.js, Supabase, Payload CMS)  
 - Linux customization & optimization  
-- AI & LLMs tinkering  
+- AI & LLMs tinkering
+- Wanting to learn Rust for some reason
 
 ---
 
